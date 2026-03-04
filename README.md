@@ -10,7 +10,7 @@ This project was developed as part of the **Wealthsimple AI Builder Challenge**,
 
 Watch the 2–3 minute system demo:
 
-https://drive.google.com/drive/folders/1mZEQk1sWDeFRAGUbj1EdOek991aQQYf3?usp=drive_link
+https://drive.google.com/file/d/1ieV7PM-XVuF6kRFWs1a6O6FRQu7jG4Vt/view?usp=sharing
 
 ---
 
